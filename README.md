@@ -12,7 +12,7 @@
 
 - 🛠 &nbsp; I’m currently working with JS, TS, PHP & JAVA.
 - 🚀 &nbsp; I’m currently exploring REACT, NEXT, LARAVEL & SPRIG BOOT.
-- 💬 &nbsp; Ask me anything [here](https://github.com/MahdiSohaily/MahdiSohaily/issues/1)! I am happy to help.
+- 💬 &nbsp; Ask me anything [here](https://github.com/MahdiSohaily/MahdiRezaeiDev/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: NaN ** 0 is 1 in JS.
 - 📫 &nbsp; Reach me out: <mahdi.sohaily4030@gmail.com>.
 
@@ -40,12 +40,12 @@
 <div>
  <b>⚡ Github Stats</b>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahdiSohaily&show_icons=true&theme=onedark" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiSohaily&&show_icons=true&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahdiRezaeiDev&show_icons=true&theme=onedark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiRezaeiDev&&show_icons=true&theme=onedark"/>
 </div>
 
 <div>
  <b>☄️ Github Streaks</b>
 <br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSohaily&layout=compact&show_icons=true&theme=onedark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiRezaeiDev&layout=compact&show_icons=true&theme=onedark" />
 </div>
