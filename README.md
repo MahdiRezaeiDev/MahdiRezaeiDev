@@ -23,4 +23,8 @@ Building scalable systems at the intersection of performance and developer exper
 
 ---
 
-## Tech
+## Writing & Thinking
+
+> "Good code is deleted code. Great code is code someone else can delete."
+
+📫 mahdi.sohaily4030@gmail.com
