@@ -16,7 +16,7 @@ I build web applications that turn everyday workflows into practical tools. My p
 
 | Project | Technologies | Highlights |
 | :--- | :--- | :--- |
-| [Administrative Correspondence](https://github.com/MahdiRezaeiDev/government_letters-) | Laravel · React · Inertia · TypeScript | Letter routing, archives, reports and real-time notifications. |
+| [Administrative Correspondence](https://github.com/MahdiRezaeiDev/administrative-correspondence) | Laravel · React · Inertia · TypeScript | Letter routing, archives, reports and real-time notifications. |
 | [Clinic Management System](https://github.com/MahdiRezaeiDev/clinic-management-system) | Laravel · PHP · JavaScript | Patients, staff, pharmacy, expenses and payroll. |
 | [Air Pollution Metrics](https://github.com/MahdiRezaeiDev/air-pollution-metrics) | React · Redux Toolkit · API | Searchable current, forecast and historical air-quality data. |
 | [SpaceX Explorer](https://github.com/MahdiRezaeiDev/spaceX) | React · Redux Toolkit · API | A collaborative project exploring rockets and missions. |
