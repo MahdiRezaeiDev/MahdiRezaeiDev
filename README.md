@@ -4,7 +4,7 @@
 
 I build web applications that turn everyday workflows into practical tools. My public work spans administrative correspondence, clinic management and interactive, API-driven interfaces.
 
-[LinkedIn](https://www.linkedin.com/in/rezaei-mahdi/) · [Browse my repositories](https://github.com/MahdiRezaeiDev?tab=repositories)
+[Portfolio](https://mahdirezaeidev.github.io/) · [LinkedIn](https://www.linkedin.com/in/rezaei-mahdi/) · [Browse my repositories](https://github.com/MahdiRezaeiDev?tab=repositories)
 
 ## What I work on
 
